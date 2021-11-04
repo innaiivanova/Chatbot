@@ -1,5 +1,5 @@
 # Codecademy Magic 8-Ball
-# 04.11.2021
+# Inna I. Ivanova
 
 import random
 name = "Inna"
