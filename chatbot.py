@@ -1,5 +1,5 @@
 # Building first chatbot
-# 03.11.2021
+# Inna I. Ivanova
 
 print("Welcome! I'm chatbot version 1.0")
 print("I can repeat what you say.")
