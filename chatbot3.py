@@ -1,6 +1,6 @@
 # Codecademy Looping Coffee Chatbot
 # Inna I. Ivanova
-# chatbot3.py works with utils.py 
+# chatbot3.py works with utils3.py 
 
 from utils import print_message, get_size, order_latte, brewed_coffee, order_mocha
 
