@@ -1,6 +1,6 @@
 # Codecademy Looping Coffee Chatbot
 # Inna I. Ivanova
-# utils.py works with chatbot3.py  
+# utils3.py works with chatbot3.py  
 
 def print_message():
   print('I\'m sorry, I did not understand your selection. Please enter the corresponding letter for your response.')
