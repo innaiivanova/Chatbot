@@ -1,0 +1,15 @@
+# Codecademy based definitions and tasks when creating a chatbot
+# Inna I. Ivanova
+
+Definitions:
+- An utternace is a user statement that the chatbot attempts to match to an intent.
+- An intent is the purpose or the category of the user query, such as to retrieve a list of hotels.
+- An entity is a value, like a user name or account number, that is parsed from a user utternace and passed into a function associated with the matched intent.
+
+Tasks:
+1. Greet the user
+2. Handle the conversation
+3. Match the user's response (utternace)
+4. Handle different intents
+5. Handle responce3s that don't match intent
+6. Extending the chatbot
