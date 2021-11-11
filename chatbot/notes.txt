@@ -11,5 +11,5 @@ Tasks:
 2. Handle the conversation
 3. Match the user's response (utternace)
 4. Handle different intents
-5. Handle responce3s that don't match intent
+5. Handle responces that don't match intent
 6. Extending the chatbot
